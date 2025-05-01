@@ -1,0 +1,25 @@
+981  cd egypt_cities
+  982  mkdir Alexandria Cairo Port-Said Aswan Delta
+  983  ls
+  984  cd Alexandria
+  985  touch data.txt
+  986  cd ..
+  987  cd Aswan
+  988  touch data.txt
+  989  cd ..
+  990  ls
+  991  cd Cairo
+  992  touch data.txt
+  993  cd ..
+  994  cd Delta
+  995  touch data.txt
+  996  cd ..
+  997  d Port-Said
+  998  cd Port-Said
+  999  touch data.txt
+ 1000  ls
+ 1001  cd ..
+ 1002  ls
+ 1003  rm -r *
+ 1004  ls
+ 1005  touch commands.txt
